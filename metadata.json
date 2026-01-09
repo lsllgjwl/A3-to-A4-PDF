@@ -1,0 +1,5 @@
+{
+  "name": "A3 转 A4 PDF 分割工具",
+  "description": "专业的 PDF A3 转 A4 分割工具。支持智能识别页面方向并进行本地化批处理。",
+  "requestFramePermissions": []
+}
